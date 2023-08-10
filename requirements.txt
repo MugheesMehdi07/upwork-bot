@@ -1,0 +1,8 @@
+certifi
+charset-normalizer
+discordwebhook
+feedparser
+idna
+requests
+sgmllib3k
+urllib3
